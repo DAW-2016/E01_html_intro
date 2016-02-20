@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>EXE 1</title>
+    </head>
+    <body>
+        <h1>Jornal do DAW</h1>
+            <h2>Total de desempregados cresce 41,5% e atinge mais de 9 milhões</h2>
+                <p>RIO - O desemprego no país ficou em 9% entre setembro e novembro, segundo os dados da Pesquisa Nacional por Amostra de Domicílios (Pnad) Contínua divulgados nesta sexta-feira pelo IBGE. É a maior taxa para o período desde o início da série histórica, em 2012, e se iguala ao maior nível da pesquisa, que tinha sido registrado no trimestre encerrado em outubro.</p>
+                <p>O índice, que inclui todos os estados brasileiros, acelerou fortemente frente ao mesmo período de 2014, quando o desemprego estava em 6,5%. Com isso, em um ano, o total de desocupados cresceu 41,5%, ao somar quase 3 milhões de pessoas a esse contingente, que já chega a 9,1 milhões de brasileiros com mais de 14 anos.</p>
+                <p>O resultado também subiu na comparação com o trimestre imediatamente anterior, de junho a agosto, quando a taxa foi de 8,7%. Já o rendimento real ficou em R$ 1.899, 0,7% a menos do que no trimestre encerrado em agosto.</p>
+                <p>— O aumento do desemprego foi puxado pela expansão da população desocupada, ou seja, mais gente procurando trabalho. Mas também teve perda da população ocupada, redução de meio milhão de pessoas em um ano. Foi um movimento mais agressivo da população desocupada — apontou Cimar Azeredo, gerente da Coordenação de Trabalho do IBGE.</p>
+                <p>Por outro lado, foi a primeira vez, depois de dez altas seguidas, na comparação com o trimestre encerrado no mês anterior, que a taxa ficou estável. Nesse tipo de comparação, o desemprego vinha subindo desde o trimestre encerrado em janeiro de 2014, quando estava em 6,5%. No período de agosto a outubro, a taxa também ficou em 9%.</p>
+    </body>
+</html>
