@@ -2883,7 +2883,8 @@ select[multiple].input-lg {
 .has-error .radio,
 .has-error .checkbox,
 .has-error .radio-inline,
-.has-error .checkbox-inline,
+.has-error .
+-inline,
 .has-error.radio label,
 .has-error.checkbox label,
 .has-error.radio-inline label,
@@ -4421,6 +4422,22 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     margin-bottom: 0;
     vertical-align: middle;
   }
+  .checkbox-right {
+    color: green;
+    position: relative;
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  .checkbox-wrong {
+    color: #8A4444;
+    position: relative;
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
   .navbar-form .radio label,
   .navbar-form .checkbox label {
     padding-left: 0;
