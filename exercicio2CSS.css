@@ -1,0 +1,18 @@
+div {
+  background-color: #9999ff;
+  border-radius: 10px;
+  margin-top: 30px;
+}
+#questions{
+  padding: 15px;
+}
+#sidePainel{
+  padding:10px;
+}
+#tit {
+  background-color: #9999ff;
+  font-family: Arial;
+}
+p {
+  font-family: Arial;
+}
