@@ -1,0 +1,135 @@
+		#heade{
+			background:#000000;
+			margin-bottom:5px;
+			margin-top:30px;
+			margin-left:5%;
+			margin-right:5%;
+			padding-left:1%;
+			padding-right:1%;
+			padding-bottom:5px;
+			padding-top:5px;
+			border-radius:5px;
+			color: #ffffff
+			}
+		
+		#titulo{
+			text-align:center;
+			font-family:"Arial";
+			padding-top:5px;
+			padding-bottom:5px;
+			font-size:50px;
+			}
+		
+
+		#bodye{
+			position:absolute;
+			background:#d9d9d9;
+			font-family:"Arial";
+			margin-top:5px;
+			margin-left:5%;
+			margin-right:30%;
+			padding-left:1%;
+			padding-right:1%;
+			padding-bottom:10px;
+			padding-top:10px;
+			text-align: justify;
+			font-size:20px;
+			border-radius:5px;
+			float:left;
+			}
+
+		#bodye1{
+			position:absolute;
+			background:#d9d9d9;
+			font-family:"Arial";
+			margin-bottom:50px;
+			margin-top:560px;
+			margin-left:5%;
+			margin-right:30%;
+			padding-left:1%;
+			padding-right:1%;
+			padding-bottom:10px;
+			padding-top:10px;
+			text-align: justify;
+			font-size:20px;
+			border-radius:5px;
+			float:left;
+			}
+
+		#bodye2{
+			position:absolute;
+			background:#d9d9d9;
+			font-family:"Arial";
+			margin-bottom:50px;
+			margin-top:1000px;
+			margin-left:5%;
+			margin-right:30%;
+			padding-left:1%;
+			padding-right:1%;
+			padding-bottom:10px;
+			padding-top:10px;
+			text-align: justify;
+			font-size:20px;
+			border-radius:5px;
+			float:left;
+			}
+		
+		#subtaitles{
+			font-size:35px;
+			text-align: center;
+			font-family:"Arial";			
+			}
+
+		#sidebarSOCIAL{
+			position: absolute;
+			background:#d9d9d9;
+			font-family:"Arial";
+			margin-bottom:50px;
+			margin-top:5px;
+			margin-right:5.5%;
+			margin-left:70%;
+			padding-left:1%;
+			padding-right:1%;
+			padding-bottom:10px;
+			padding-top:10px;
+			text-align: justify;
+			font-size:20px;
+			border-radius:5px;
+			float:right;
+			}
+
+		#sidebarFAQ{
+			position: absolute;
+			background:#d9d9d9;
+			font-family:"Arial";
+			margin-bottom:50px;
+			margin-top:300px;
+			margin-right:5.5%;
+			margin-left:70%;
+			padding-left:1%;
+			padding-right:1%;
+			padding-bottom:10px;
+			padding-top:10px;
+			text-align: justify;
+			font-size:20px;
+			border-radius:5px;
+			float:right;
+			}
+		
+		#sidebarBOLSOMITO{
+			position: absolute;
+			background:#d9d9d9;
+			font-family:"Arial";
+			margin-bottom:50px;
+			margin-top:555px;
+			margin-right:5.5%;
+			margin-left:70%;
+			padding-left:1%;
+			padding-right:1%;
+			padding-bottom:10px;
+			padding-top:10px;
+			text-align: justify;
+			font-size:20px;
+			border-radius:5px;
+			float:right;
+			}
